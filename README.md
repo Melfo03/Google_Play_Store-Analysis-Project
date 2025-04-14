@@ -30,3 +30,5 @@ EDA involved exploring the sales data to answer key questions, such as:
 
 ### Results/Findings
 
+Analysis in progress. Insights will be added soon...
+
