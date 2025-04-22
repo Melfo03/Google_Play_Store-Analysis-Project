@@ -30,8 +30,52 @@ EDA involved exploring the sales data to answer key questions, such as:
 
 ### Results/Findings
 
-#### Descriptive Statistics:
+#### Descriptive Statistics
 
-- ![Descriptive Statistics Summary](images/Descriptive_Statistics_Summary.png)
+![Descriptive Statistics Summary](images/Descriptive_Statistics_Summary.png)
 
+#### Correlations
+Upon analyzing the cleaned dataset, as seen in the image below, the only notable correlation is the moderately strong positive correlation between 'Reviews' and 'Installs'.
+
+![a](images/correlation_matrix.png)
+
+#### Trend Line
+![c](images/Trend_Line_Between_Installs_and_Reviews.png)
+
+#### Findings
+ - According to the chart below, the genre with the most apps is 'Tools'
+   
+   ![b](images/Apps_Count_by_Genre.png)
+
+   
+ - According to the chart below, the genre with the most paid apps is 'Medical
+ 
+   ![c](images/Paid_Apps_Count_by_Genre.png)
+
+ - According to the chart below, the genre with the highest average price is 'Medical'
+
+   ![c](images/Average_Price_of_Paid_Apps_by_Genre.png)
+
+
+ - According to the chart below, the genre with the highest average number of installs is 'Communication'
+
+   ![c](images/Downloads_Count_by_Genre.png)
+   
+
+  - According to the chart below, the content rating with the most apps by far is 'Everyone'
+
+    ![c](images/Content_Rating_Distribution.png)
+   
+
+  - According to the pie chart below, the content rating with the most downloads by far is 'Everyone'
+
+    ![c](images/Installs_By_Content_Rating.png)
+
+
+  - According to the chart below, by far, the number of free apps is higher
+
+    ![c](images/Count_of_Paid_vs_Free_Apps.png)
+
+   
+ 
 
