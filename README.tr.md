@@ -1,3 +1,5 @@
+# Google Play Store Analysis Project
+
 ### Proje Genel Bakışı
 ---
 Google Play Store verisetini analiz ederek, uygulama puanları, yorumları ve kategori performansları hakkında bilgiler elde edilmesi.
@@ -75,4 +77,4 @@ Temizlenmiş veri seti analiz edildiğinde, aşağıdaki görselde görüldüğ�
 
 - **İndirilen Uygulamalar:** Türlere göre yükleme sayısını incelediğimizde, "Communication" (İletişim) kategorisinin en fazla yükleme sayısına sahip olduğu görülmektedir. Bunun yanında, "Tools" (Araçlar), "Entertainment" (Eğlence) ve "Education" (Eğitim) kategorileri de oldukça yüksek indirme sayıları göstermektedir.
 
-**- Yüklemeler ve Yorumlar Arasındaki İlişki:** Yüklemeler ve yorumlar arasında pozitif bir ilişki gözlemlenmiştir. Bir uygulamanın yüklenme sayısı arttıkça, yorum sayısının da arttığı görülmektedir. Bu trend genellikle popüler ve yaygın olarak indirilen uygulamalar için geçerlidir. Bu ilişkiyi görselleştiren trend çizgisi, korelasyonu net bir şekilde doğrulamaktadır. Bu durum, kullanıcıların uygulamaları daha fazla indirdikçe, daha fazla geri bildirimde bulunma eğiliminde olduklarını göstermektedir.
+- **Yüklemeler ve Yorumlar Arasındaki İlişki:** Yüklemeler ve yorumlar arasında pozitif bir ilişki gözlemlenmiştir. Bir uygulamanın yüklenme sayısı arttıkça, yorum sayısının da arttığı görülmektedir. Bu trend genellikle popüler ve yaygın olarak indirilen uygulamalar için geçerlidir. Bu ilişkiyi görselleştiren trend çizgisi, korelasyonu net bir şekilde doğrulamaktadır. Bu durum, kullanıcıların uygulamaları daha fazla indirdikçe, daha fazla geri bildirimde bulunma eğiliminde olduklarını göstermektedir.
