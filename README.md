@@ -30,5 +30,8 @@ EDA involved exploring the sales data to answer key questions, such as:
 
 ### Results/Findings
 
-Analysis in progress. Insights will be added soon...
+#### Descriptive Statistics:
+
+- ![Descriptive Statistics Summary](images/Descriptive_Statistics_Summary.png)
+
 
